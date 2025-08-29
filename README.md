@@ -1,0 +1,1 @@
+# caseUseNuxt1
